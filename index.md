@@ -1,6 +1,6 @@
-Before starting this tutorial, it would help if you have python installed. However, you can use the python interface on [this website]() that runs python code for you in the browser. 
+Before starting this tutorial, it would help if you have python installed. However, you can use the python interface on [this website](https://www.w3schools.com/python/trypython.asp?filename=demo_default) that runs python code for you in the browser. Do delete the existing demo text before you begin! 
 
-# Assigning Variables 
+# Assigning Variables (do not expect any outputs in this section) 
 You can think of variables like boxes. You can store something in a variable, and you can store variables in other variables. It'll make more sense once you look at the code. Variables can be names anything you like. I've named mine bartholomew: 
 ```bartholomew = 5```
 The above line of code assigns the value of '5' to a variable names 'bartholomew.' Now, this may sound simple enough at first, but something strange is actually going on behind the screen. Take a look at this code: 
@@ -38,7 +38,8 @@ Surrounding any collection of alphanumeric characters in quotation marks makes t
 Quick question! Are `x = 5` and `y = "5"` the same? Since I'm asking, you probably realise that the answer is no. And you'd be right, *5* is an integer, but *"5"* is string - a collection of one character (the character '5'). 
 
 > [!Key Term: Algorithm ]
-> An algorithm is a set of steps. For example, "go straight, then take a right, and then the second left" is an algorithm to... I'm not sure where but you get the idea. 
+> An algorithm is a set of steps. For example, "go straight, then take a right, and then the second left" is an algorithm to... I'm not sure where but you get the idea.
+
 # The print Statement and some tricks 
 So far we've stored a value in a variable, but if you run the code you'll notice that nothing is outputted. This is because we haven't told python to output anything! 
 
