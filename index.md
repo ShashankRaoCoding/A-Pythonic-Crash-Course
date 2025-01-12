@@ -1,4 +1,4 @@
-Before starting this tutorial, it would help if you have python installed. However, you can use the python interface on [this website](https://www.w3schools.com/python/trypython.asp?filename=demo_default) that runs python code for you in the browser. Do delete the existing demo text before you begin! 
+Before starting this tutorial, it would help if you have python installed. However, you can use the python interface on https://www.w3schools.com/python/trypython.asp?filename=demo_default that runs python code for you in the browser. Do delete the existing demo text before you begin! 
 
 # Assigning Variables (do not expect any outputs in this section) 
 You can think of variables like boxes. You can store something in a variable, and you can store variables in other variables. It'll make more sense once you look at the code. Variables can be names anything you like. I've named mine bartholomew: 
